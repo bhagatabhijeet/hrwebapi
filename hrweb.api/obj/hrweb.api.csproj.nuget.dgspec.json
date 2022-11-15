@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\personalgithub\\hrwebapi\\hrweb\\hrweb.api\\hrweb.api.csproj": {}
+    "C:\\personalgithub\\hrwebapi\\hrweb.api\\hrweb.api.csproj": {}
   },
   "projects": {
-    "C:\\personalgithub\\hrwebapi\\hrweb\\hrweb.api\\hrweb.api.csproj": {
+    "C:\\personalgithub\\hrwebapi\\hrweb.api\\hrweb.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\personalgithub\\hrwebapi\\hrweb\\hrweb.api\\hrweb.api.csproj",
+        "projectUniqueName": "C:\\personalgithub\\hrwebapi\\hrweb.api\\hrweb.api.csproj",
         "projectName": "hrweb.api",
-        "projectPath": "C:\\personalgithub\\hrwebapi\\hrweb\\hrweb.api\\hrweb.api.csproj",
+        "projectPath": "C:\\personalgithub\\hrwebapi\\hrweb.api\\hrweb.api.csproj",
         "packagesPath": "C:\\Users\\abhagat\\.nuget\\packages\\",
-        "outputPath": "C:\\personalgithub\\hrwebapi\\hrweb\\hrweb.api\\obj\\",
+        "outputPath": "C:\\personalgithub\\hrwebapi\\hrweb.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
