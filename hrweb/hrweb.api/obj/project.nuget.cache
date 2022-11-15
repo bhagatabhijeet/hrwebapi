@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hDxOnT3V9FcJ1rsaOns1kFv0HjD6l5iFbhAkkcmcAqwzBcKP7w0C6rO8zXexcqvj8nsCVP0BNFxP/9P1Pp+gA==",
+  "success": true,
+  "projectFilePath": "C:\\personalgithub\\hrwebapi\\hrweb\\hrweb.api\\hrweb.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhagat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\abhagat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abhagat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\abhagat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\abhagat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\abhagat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
