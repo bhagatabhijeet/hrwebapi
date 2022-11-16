@@ -1,4 +1,5 @@
 using hrweb.api.Data;
+using hrweb.api.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace hrweb.api
@@ -18,6 +19,7 @@ namespace hrweb.api
             builder.Services.AddDbContext<HrDbContext>(options => {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("hrwebapi"));
                 });
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -35,6 +37,9 @@ namespace hrweb.api
             app.MapControllers();
 
             app.Run();
+           
         }
     }
+
+    
 }
