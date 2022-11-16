@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/hrweb.api/obj/Debug/net6.0/hrweb.api.csproj.AssemblyReference.cache
+/hrweb.api/.config
